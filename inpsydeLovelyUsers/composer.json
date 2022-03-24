@@ -1,0 +1,11 @@
+{
+    "name": "azka.asif/inpsyde-lovely-users",
+    "type": "composer-pluging",
+    "license": "GPL",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "InpsydeLovelyUsers\\": "src"
+        }
+    }
+}
